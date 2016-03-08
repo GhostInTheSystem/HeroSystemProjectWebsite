@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.header {
+	border-style:solid;
+	border-color: #000000;
+	border-width: 5px;
+	width: 100% - 10px;
+	background-color: #0028FF;
+	height:auto;
+	text-align:center;
+}
+.body{
+		
+}
+.rowOfTabs{
+	height:20px;
+	width:100%;
+	background-color:#FAD002;
+}
